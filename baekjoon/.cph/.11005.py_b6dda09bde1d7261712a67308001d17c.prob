@@ -1,0 +1,1 @@
+{"name":"Local: 11005","url":"c:\\algorithm\\baekjoon\\11005.py","tests":[{"id":1720154306883,"input":"60466175 36","output":"ZZZZZ"},{"id":1720154461373,"input":"100000 10","output":"100000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\algorithm\\baekjoon\\11005.py","group":"local","local":true}
